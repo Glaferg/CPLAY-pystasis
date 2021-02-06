@@ -2,7 +2,7 @@
 a thing to help me get some sleep with rainbow leds.
 
 
-##PYSTASIS: A NAUTILUS HARDWARE PROJECT
+## PYSTASIS: A NAUTILUS HARDWARE PROJECT
 
 This is an attempt to get some sleep and some engineering practice- I'm converting 'dev board' into 'self-made health device'.
 
